@@ -1863,9 +1863,6 @@ displayPDFInvoice
 :
     PDF Invoice - This hook allows you to display additional information on PDF invoices
     
-    Located in: /
-
-    
 displayFooterAfter
 : 
     Located in: /themes/classic/templates/_partials/footer.tpl
