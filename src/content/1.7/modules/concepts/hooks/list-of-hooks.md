@@ -897,7 +897,11 @@ actionProductSave
     This hook is called while saving products
 
     Located in: /classes/Product.php
-
+    
+displayAttributeGroupPostProcess
+:
+    On post-process in admin attribute group
+    This hook is called on post-process in admin attribute group
     
 actionProductSearchAfter
 : 
