@@ -2187,10 +2187,10 @@ This hook displays some specific information on the shopping cart's page
 
     Located in: /themes/classic/templates/checkout/cart.tpl
     
-displayShoppingCartFooter
+displayCreateAccountEmailFormBottom
 :
-    Shopping cart footer
-    This hook displays some specific information on the shopping cart's page
+    Customer authentication form
+    This hook displays some information on the bottom of the email form
     
 displayTop
 : 
