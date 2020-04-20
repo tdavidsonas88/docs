@@ -1566,7 +1566,10 @@ displayBackOfficeCategory
 This hook launches modules when the AdminCategories tab is displayed in the Back Office
 
     Located in: /controllers/admin/AdminCategoriesController.php
-
+    
+displayProductListFunctionalButtons
+:
+    Display new elements in the Front Office, products list
     
 displayBackOfficeFooter
 : 
