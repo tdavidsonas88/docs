@@ -608,7 +608,10 @@ actionInvoiceNumberFormatted
 actionModuleInstallAfter
 : 
     Located in: /classes/module/Module.php
-
+    
+displayTopColumn
+:
+    Top column blocks
     
 actionModuleInstallBefore
 : 
