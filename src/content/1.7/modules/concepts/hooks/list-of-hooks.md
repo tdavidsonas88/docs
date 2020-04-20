@@ -282,6 +282,10 @@ actionAttributeSave
     Called while saving an attributes features value
 
     Located in: /classes/Attribute.php
+    
+actionTaxManager
+:
+    Tax Manager Factory
 
     
 actionAuthentication
