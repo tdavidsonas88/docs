@@ -1590,7 +1590,7 @@ displayBackOfficeHeader
     Located in: /classes/controller/AdminController.php
 
     
-displayBackOfficeOrderActions
+displayBackOfficeOrderActions       
 : 
     **(deprecated since 1.7.7)**
     → `actionGetAdminOrderButtons`
@@ -1989,6 +1989,9 @@ displayNav2
     - /themes/classic/templates/_partials/header.tpl
     - /themes/classic/templates/checkout/_partials/header.tpl
 
+displayOverrideTemplate
+:
+    Change the default template of current controller
     
 displayNavFullWidth
 : 
