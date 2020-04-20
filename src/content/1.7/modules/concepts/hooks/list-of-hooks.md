@@ -1541,6 +1541,9 @@ This hook adds fields to the form 'attribute value'
 
     Located in: admin-dev/themes/default/template/controllers/attributes/helpers/form/form.tpl
 
+actionAttributePostProcess
+:
+    On post-process in admin feature value
     
 displayAttributeGroupForm
 : 
